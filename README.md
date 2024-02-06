@@ -87,7 +87,3 @@ This project is a Proof of Concept of the use of the OpenAI API for generating q
 - OpenAI API: https://platform.openai.com/account/api-keys
 - MongoDB documentation: https://www.mongodb.com/docs/
 - MongoDB image documentation on DockerHub: https://hub.docker.com/_/mongo/
-
-## Trivia
-
-This documentation was also created with AI assistance 🤖 😉.
